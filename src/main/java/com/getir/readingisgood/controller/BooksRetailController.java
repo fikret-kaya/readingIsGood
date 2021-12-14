@@ -12,7 +12,6 @@ import com.getir.readingisgood.service.BookService;
 import com.getir.readingisgood.service.CustomerService;
 import com.getir.readingisgood.service.OrderService;
 import com.google.gson.Gson;
-import org.aspectj.weaver.ast.Or;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
